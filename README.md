@@ -57,6 +57,13 @@ Through this project, I worked on multiple tasks that helped me gain both practi
 
 ---
 
+##  How to Use
+- Open the repository folders to view each task
+- Refer to the report folder for complete documentation
+- No software setup required as this is a documentation-based project
+
+---
+
 ##  Repository Structure
 Digital-Literacy-Project/
 │
